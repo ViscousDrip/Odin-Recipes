@@ -1,1 +1,2 @@
 # Odin-Recipes
+This projects purpose is to practice and demonstrate my understanding of the HTML knowledge I have aquired so far. I will be building a basic recipe website using HTML, then eventually styling it with CSS.
